@@ -1,3 +1,4 @@
+// ES6
 class Car {
   constructor(make, model, year) {
     this.make = make;
